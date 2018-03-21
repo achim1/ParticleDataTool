@@ -17,6 +17,7 @@ The latest version of the documentation can be found `here <http://particledatat
 System requirements
 -------------------
 
+**This is a python3 compatible version of afedynitch's original project**
 Any system running Python and Numpy.
 
 Software requirements
@@ -24,7 +25,7 @@ Software requirements
 
 Dependencies:
 
-* python-2.7
+* python-2.7/3.5+
 * numpy
 
 

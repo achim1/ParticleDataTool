@@ -49,8 +49,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'ParticleDataTool'
-copyright = u'2014, Anatoli Fedynitch'
+project = 'ParticleDataTool'
+copyright = '2014, Anatoli Fedynitch'
 
 autodoc_member_order = 'groupwise'
 
@@ -204,8 +204,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'ParticleDataTool.tex', u'ParticleDataTool Documentation',
-   u'Anatoli Fedynitch', 'manual'),
+  ('index', 'ParticleDataTool.tex', 'ParticleDataTool Documentation',
+   'Anatoli Fedynitch', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -234,8 +234,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'particledatatool', u'ParticleDataTool Documentation',
-     [u'Anatoli Fedynitch'], 1)
+    ('index', 'particledatatool', 'ParticleDataTool Documentation',
+     ['Anatoli Fedynitch'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -248,8 +248,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ParticleDataTool', u'ParticleDataTool Documentation',
-   u'Anatoli Fedynitch', 'ParticleDataTool', 'One line description of project.',
+  ('index', 'ParticleDataTool', 'ParticleDataTool Documentation',
+   'Anatoli Fedynitch', 'ParticleDataTool', 'One line description of project.',
    'Miscellaneous'),
 ]
 
